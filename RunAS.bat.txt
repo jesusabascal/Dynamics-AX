@@ -1,0 +1,2 @@
+%windir%\System32\runas.exe /profile /savecred /user:domain\userid "C:\Program Files (x86)\Microsoft Dynamics AX\60\Client\Bin\Ax32.exe C:\AccesosAX\03-AX_REAL_USR.axc"
+pause
